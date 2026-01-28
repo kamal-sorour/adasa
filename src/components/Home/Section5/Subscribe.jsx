@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './subscribe.module.css';
+import styles from './Subscribe.module.css';
 
 const Subscribe = ({ data }) => {
   const avatars = data && data.posts 
@@ -63,5 +63,6 @@ const Subscribe = ({ data }) => {
     </section>
   );
 }
+
 
 export default Subscribe;
