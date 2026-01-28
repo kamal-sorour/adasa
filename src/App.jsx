@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
 import LayOut from './pages/LayOut.jsx'
-import Home from './pages/home.jsx'
+import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
 import Blog from './pages/Blog.jsx'
 import NotFound from './pages/NotFound.jsx'
