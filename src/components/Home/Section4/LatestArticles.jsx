@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './latestArticles.module.css';
+import styles from './LatestArticles.module.css';
 import { Link } from 'react-router-dom';
 
 const LatestArticles = ({ data }) => {
@@ -85,5 +85,6 @@ const LatestArticles = ({ data }) => {
     </section>
   );
 }
+
 
 export default LatestArticles;
