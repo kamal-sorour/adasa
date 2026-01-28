@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './categories.module.css';
+import styles from './Categories.module.css';
 import { Link } from 'react-router-dom';
 
 const Categories = ({ data }) => {
@@ -63,5 +63,6 @@ const Categories = ({ data }) => {
     </section>
   );
 }
+
 
 export default Categories;
